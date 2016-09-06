@@ -10,11 +10,11 @@ url:
 # Owner/author information
 owner:
   name:
-  avatar:         
+  avatar:         avatar.jpg
   bio:            "Psychology student, learning how we learn to learn"
   email:          samuel.h.forbes@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        @SamForbes88
+  twitter:        https://twitter.com/SamForbes88
   github:         https://github.com/sforbes88
   # google plus id, include the '+', eg +mmistakes
   google_plus:
