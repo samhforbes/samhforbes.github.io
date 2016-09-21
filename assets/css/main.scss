@@ -4,25 +4,24 @@ sitemap: false
 
 /*
  *
- *  HPSTR
+ *  Moon
  *
- *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
+ *  Designer: Taylan Tatlı
+ *  WEB: http://taylantatli.me
  *
 */
 
 // Partials
 @import "variables";
 @import "mixins";
-@import "reset";
-@import "vendor/font-awesome/font-awesome";
-@import "vendor/magnific-popup/magnific-popup";
+@import "normalize";
 @import "site";
 @import "typography";
-@import "syntax";
-// @import "coderay";
-@import "grid";
 @import "elements";
-@import "animations";
-@import "dl-menu";
-@import "page";
+@import "syntax";
+@import "nav";
+@import "vendor/fonts";
+@import "vendor/font-awesome";
+@import "vendor/animate";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print"
