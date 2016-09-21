@@ -8,7 +8,7 @@ logo:               'assets/img/LogoBig.jpg'
 background:         'assets/img/data-brain.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:
+url:                http://samforbes.me
 
 # Jekyll
 permalink:          /:title/
