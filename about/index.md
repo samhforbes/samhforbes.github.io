@@ -13,3 +13,6 @@ comments: false
 * Psycholinguistics
 * Language Learning
 * Perception
+
+My current project is looking at how infants learn colour words,
+and how they associate those to the world they see around them.
