@@ -15,9 +15,9 @@ comments: false
 * Language Learning
 * Perception
 
-I am a developmental psychologist who examines infant cognition using a variety of tools, including eye-tracking, neuroimaging, wearables and questionnaires.
+I am a developmental psychologist who examines infant cognition using a variety of tools, including eye-tracking, neuroimaging (MRI and fNIRS), wearables and questionnaires.
 
 My current project (with John Spencer) looks at the development of Visual Working Memory in infants - more details are available on the Developmental Dynamics lab web pages.
 
-My DPhil was about looking at how infants learn colour words,
-and how they associate those to the colours they see in the world around them.
+My DPhil at the University of Oxford was about looking at how infants learn colour words,
+and how they associate those to the colours they see in the world around them. As part of this work we demonstrated that infants learn colour words earlier than previously thought. We also showed that there was no underlying biological order in which they learned them based on the perceptual properties, rather it was determined by how often they heard the colour word.
