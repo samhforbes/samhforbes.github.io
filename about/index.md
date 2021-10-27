@@ -6,8 +6,6 @@ date: 2016-09-21
 comments: false
 ---
 
-<center>Assistant Professor at Durham University</center>
-
 ## Research Interests
 * Developmental Psychology
 * Visual Working Memory
@@ -15,7 +13,7 @@ comments: false
 * Language Learning
 * Perception
 
-I am a developmental psychologist who examines infant cognition using a variety of tools, including eye-tracking, neuroimaging (MRI and fNIRS), wearables and questionnaires.
+I am a developmental psychologist and Assistant Professor at Durham University who examines infant cognition using a variety of tools, including eye-tracking, neuroimaging (MRI and fNIRS), wearables and questionnaires.
 
 My previous postdoctoral project (with John Spencer) looks at the development of Visual Working Memory in infants - more details are available on the Developmental Dynamics lab web pages.
 
