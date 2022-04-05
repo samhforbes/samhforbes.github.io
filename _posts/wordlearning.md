@@ -1,16 +1,12 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
+title:  "Word learning"
 date:   2022-04-05
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "Understanding infant word learning"
 project: true
 tag:
-- jekyll
-- moon
-- blog
-- about
-- theme
-comments: true
+- word learning
+comments: false
 ---
 
 # Word learning
