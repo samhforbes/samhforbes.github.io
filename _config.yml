@@ -5,7 +5,7 @@ description:
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/Photoon28-05-2021atsmall2.jpeg'
-background:         'assets/img/data-brain.jpg'
+background:         'assets/img/1200px-Black_colour.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://samforbes.me
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   
+disqus_shortname:
 
 # Social
 # if you don't have any of social below, comment the line.
