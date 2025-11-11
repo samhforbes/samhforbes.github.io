@@ -7,8 +7,8 @@ words_per_minute:   200
 logo:               'assets/img/Photoon28-05-2021atsmall2.jpeg'
 background:         'assets/img/1200px-Black_colour.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://samforbes.me
+locale:             en_UK
+url:                https://samhforbes.github.io/
 
 # Jekyll
 permalink:          /:title/
