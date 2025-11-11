@@ -11,6 +11,7 @@ locale:             en_UK
 url:                https://samhforbes.github.io/
 
 # Jekyll
+theme: jekyll-theme-minimal
 permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
